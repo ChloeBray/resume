@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Chloe Bray
 
-You can use the [editor on GitHub](https://github.com/ChloeBray/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find me on [LinkedIn] or you can [email me]. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an editor with experience editing non-fiction and fiction, including academic work and children's fiction. I currently copyedit academic articles for an open-access journal publisher. I hold a BA from the University of Toronto, an MA from Sciences Po Paris, and a Certificate in Publishing from Ryerson University.
 
-### Markdown
+As an avid reader, I love helping clients make their writing the best that it can be. Though I am a proficient copyeditor, my passions are line and substantive editing. I work closely with clients to polish their work so that it shines. I approach every piece as an opportunity to preserve the essence of the writer's voice while ensuring that the writing is clear, effective, and engaging.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Whether you're looking for a copyeditor for a short article, a substantive editor for flash fiction, an unbiased first reader, or anything in between, I can help!
 
-```markdown
-Syntax highlighted code block
+## Professional Experience
 
-# Header 1
-## Header 2
-### Header 3
+**Copyeditor**, _MDPI_ _September 2021 – present_
+- I copyedit open-access journal articles in a variety of subjects, from math to life sciences. I complete each edit in 24 hours or less. I focus on increasing the clarity and consistency of the writing, ensuring an error-free final product.
 
-- Bulleted
-- List
+**Substantive/Line Editor**, _Freelance_ _April 2021 – present_
+- I work with clients to develop the plot, structure, tone, and voice of their work. My substantive editing focuses on big-picture issues, while my line editing focuses on streamlining my clients' writing to make it as effective and engaging as possible. I have experience working with paranormal fiction and thrillers
 
-1. Numbered
-2. List
+## Education
 
-**Bold** and _Italic_ and `Code` text
+**Certificate in Publishing**, Focus on Editing
+Chang School of Continuing Education, Ryerson University
+2021 
 
-[Link](url) and ![Image](src)
-```
+**M.A.**, Major in International Security, Minors in The Americas and Media & Writing
+Sciences Po, Paris School of International Affairs
+_2021_
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Honours B.A. with High Distinction**, Major in International Security, Minors in Latin American Studies and Spanish Trinity College, University of Toronto _2019_
 
-### Jekyll Themes
+## Additional Skills
+- EPUB creation, formatting, and editing
+- Beta reading and developmental editing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChloeBray/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Interests
+- Reading anything and everything
+- Rock climbing and yoga
+- Cooking and recipe development
