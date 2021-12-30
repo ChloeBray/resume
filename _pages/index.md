@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Chloe Bray
+title: Hello!
 permalink: /
 ---
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/chloe-bray-2274bb153/) or you can [email me](mailto:editingwithchloe@gmail.com). 
+You can contact me via [LinkedIn](https://www.linkedin.com/in/chloe-bray-2274bb153/) or [email](mailto:editingwithchloe@gmail.com). 
 
 I'm an editor with experience editing non-fiction and fiction, including academic work and children's fiction. I currently copyedit academic articles for an open-access journal publisher. I hold a BA from the University of Toronto, an MA from Sciences Po Paris, and a Certificate in Publishing from Ryerson University.
 
