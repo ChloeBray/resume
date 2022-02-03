@@ -6,13 +6,11 @@ permalink: /resume/
 
 ## Professional Experience
 
-**Copyeditor**, MDPI  
+**Copy Editor and Proofreader**, Freelance  
 _September 2021 – present_
-- I copyedit open-access journal articles in a variety of subjects, from math to life sciences. I complete each edit in 24 hours or less. I focus on increasing the clarity and consistency of the writing, ensuring an error-free final product.
 
 **Substantive/Line Editor**, Freelance  
 _April 2021 – present_
-- I work with clients to develop the plot, structure, tone, and voice of their work. My substantive editing focuses on big-picture issues, while my line editing focuses on streamlining my clients' writing to make it as effective and engaging as possible. I have specific experience working with paranormal fiction and thrillers.
 
 ## Education
 
